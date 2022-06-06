@@ -6,7 +6,7 @@
 
 ## Github repo
 
-This is the [link](https://github.com/mac-anthony/myPortfolio-website) to the Github repo of the project
+This is the [link](https://github.com/mac-anthony/rock-paper-scissors) to the Github repo of the project
 
 
 ## Tech Stack
